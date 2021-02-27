@@ -1,2 +1,2 @@
-# PThreads
-A collection of examples on working with Pthread-library.
+# POSIX
+A collection of examples on working with POSIX-library.
